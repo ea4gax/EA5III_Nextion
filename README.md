@@ -1,5 +1,5 @@
-EA5III_Nextion
+Nextion_EA5III
 
-cd /home/pi
+cd /home/pi/ea5sw/MMDVMHost-ini
 
-git clone https://github.com/ea4gax/EA5III_Nextion.git
+git clone https://github.com/ea4gax/Nextion_EA5III.git
